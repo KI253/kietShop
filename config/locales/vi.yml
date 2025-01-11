@@ -27,18 +27,18 @@
 #       "yes": yup
 #       enabled: "ON"
 
-en:
-  hello: "Hello world"
+vi:
+  hello: "Xin chào"
   products:
     index:
-      title: "Products"
+      title: "Sản phẩm"
     new:
-      title: "New product"
+      title: "Thêm sản phẩm"
     edit:
-      title: "Edit product"
+      title: "Sửa sản phẩm"
   registrations:
     new:
-      title: "Create an account"
+      title: "Tạo tài khoản"
   sessions:
     new:
-      title: "Sign in"
+      title: "Đăng nhập tài khoản"
